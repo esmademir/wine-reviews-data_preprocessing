@@ -1,6 +1,6 @@
 # wine-reviews-data_preprocessing
 
-# Contaxt
+# Context
   In this data set, there are information such as country, city, region where the wines are produced, as well as information such as prices and scores of wines
   
 # Content
