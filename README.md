@@ -16,5 +16,5 @@
       
  # Contributors
  Name
-  Esma DEMİR
-  Serkan KOCAİRİ
+  *Esma DEMİR
+  *Serkan KOCAİRİ
