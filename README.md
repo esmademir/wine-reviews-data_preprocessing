@@ -7,14 +7,14 @@
   1. Load and Check Data
   2. Dataset Description
   3. Missing Value Analysis
-      Defining and Visualizing Missing Values
-      Testing the Randomness of Missing Values
-      Operations on Missing Values
+      *Defining and Visualizing Missing Values
+      *Testing the Randomness of Missing Values
+      *Operations on Missing Values
   4. Outlier Value Analysis
-      Outlier Value Detection Using Boxplot and Histogram
-      Outlier Value Analysis With IQR
+      *Outlier Value Detection Using Boxplot and Histogram
+      *Outlier Value Analysis With IQR
       
  # Contributors
  Name
-  *Esma DEMİR
-  *Serkan KOCAİRİ
+  Esma DEMİR
+  Serkan KOCAİRİ
